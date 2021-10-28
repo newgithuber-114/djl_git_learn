@@ -10,5 +10,6 @@
 		git init
 	4.add readme.txt
 		vi readme.txt
-
+		git add readme.txt
+		git commit -m "discript mansgage"
 
