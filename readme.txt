@@ -12,4 +12,4 @@
 		vi readme.txt
 		git add readme.txt
 		git commit -m "discript mansgage"
-
+//********************************test git log************/
