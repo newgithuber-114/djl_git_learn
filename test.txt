@@ -1,0 +1,6 @@
+#test//git add,git checkout,git commit,git reset HEAD,git diff,git diff --cached,git diff HEAD
+//*******************frist write*******************************//
+this file is test file
+dong jiinlong wants to be strong
+but he's right feet is hurt now!
+//************************************************//
