@@ -19,3 +19,13 @@
 		git reset --hard (id)
 		//id is verion num,right now verion is called HEAD,up 1 degree is HEAD^,2 is HEAD^^....//
 		git reflog(check laster verion num)
+	6.three region cut inist
+		git add -----------git restore
+		git diff
+		git commit---------git reset HEAD
+		git diff --cached
+		git diff HEAD
+		git status
+		//**********************************//
+		git checkout --<file>have error,don't know why
+		//***********************************//
